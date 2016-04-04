@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipes
+  xmlns="http://www.w3.org/2001/XMLSchema1">
+  <recipe type="breakfast">
+    <cuisine>American</cuisine>
+    <servings>8</servings>
+    <preptime units="M">5</preptime>
+    <cooktime units="M">15</cooktime>
+    <cals>158</cals>
+    <recipename>Good Old Fashioned Pancakes</recipename>
+    <ingredlist>
+      <listitem>
+        <quantity units="cups">1.5</quantity>
+        <itemname>all-purpose flour</itemname>
+      </listitem>
+      <listitem>
+        <quantity units="teaspoons">3.5</quantity>
+        <itemname>baking powder</itemname>
+      </listitem>
+      <listitem>
+        <quantity units="teaspoons">1</quantity>
+        <itemname>salt</itemname>
+      </listitem>
+      <listitem>
+        <quantity units="tablespoons">1</quantity>
+        <itemname>white sugar</itemname>
+      </listitem>
+      <listitem>
+        <quantity units="cups">1.25</quantity>
+        <itemname>milk</itemname>
+      </listitem>
+      <listitem>
+        <quantity units="each">1</quantity>
+        <itemname>eggs</itemname>
+      </listitem>
+      <listitem>
+        <quantity units="tablespoons">3</quantity>
+        <itemname>melted butter</itemname>
+      </listitem>
+    </ingredlist>
+    <utensils>
+      <listitem>
+        <quantity units="each">1</quantity>
+        <utensilname>large bowl</utensilname>
+      </listitem>
+      <listitem>
+        <quantity units="each">1</quantity>
+        <utensilname>tablespoon</utensilname>
+      </listitem>
+      <listitem>
+        <quantity units="each">1</quantity>
+        <utensilname>teespoon</utensilname>
+      </listitem>
+      <listitem>
+        <quantity units="each">1</quantity>
+        <utensilname>cup</utensilname>
+      </listitem>
+      <listitem>
+        <quantity units="each">1</quantity>
+        <utensilname>frying pan</utensilname>
+      </listitem>
+    </utensils>
+    <directions>
+      <step>In a large bowl, sift together the flour, baking powder, salt and sugar. </step>
+      <step>Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.</step>
+      <step>Mix until smooth.</step>
+      <step>Heat a lightly oiled griddle or frying pan over medium high heat.</step>
+      <step>Pour or scoop the butter onto the griddle, using approximately 1/4 cup for each pancake.</step>
+      <step>Brown on both sides and serve hot.</step>
+      <step>Serve.</step>
+    </directions>
+  </recipe>
+
+  <recipe type="lunch">
+    <cuisine>American</cuisine>
+    <servings>2</servings>
+    <preptime units="minutes">5</preptime>
+    <cooktime units="minutes">15</cooktime>
+    <cals>120</cals>
+    <recipename>boiled eggs</recipename>
+    <ingredlist>
+      <listitem>
+        <quantity units="each">4</quantity>
+        <itemname>eggs</itemname>
+      </listitem>
+      <listitem>
+        <quantity units="litres">3</quantity>
+        <itemname>water</itemname>
+      </listitem>
+    </ingredlist>
+    <utensils>
+      <listitem>
+        <quantity units="each">1</quantity>
+        <utensilname>pan</utensilname>
+      </listitem>
+      <listitem>
+        <quantity units="each">1</quantity>
+        <utensilname>tablespoon</utensilname>
+      </listitem>
+    </utensils>
+    <directions>
+      <step>Put into pan with cold water all eggs </step>
+      <step>Wait for boil.</step>
+      <step>Wait 7 min</step>
+      <step>Take off eggs.</step>
+    </directions>
+  </recipe>
+
+
+  <recipe type="dinner">
+    <cuisine>American</cuisine>
+    <servings>2</servings>
+    <preptime units="minutes">1</preptime>
+    <cooktime units="minutes">5</cooktime>
+    <cals>1580</cals>
+    <recipename>Dinner</recipename>
+    <ingredlist>
+      <listitem>
+        <quantity units="each">1</quantity>
+        <itemname>flozen meal</itemname>
+      </listitem>
+    </ingredlist>
+    <utensils>
+      <listitem>
+        <quantity units="each">1</quantity>
+        <utensilname>microwave oven</utensilname>
+      </listitem>
+    </utensils>
+    <directions>
+      <step>Put flozen meal into microwave. </step>
+      <step>Turn on it for 5 min</step>
+      <step>Take off prepared food and eat.</step>
+    </directions>
+  </recipe>
+
+</recipes>
+
